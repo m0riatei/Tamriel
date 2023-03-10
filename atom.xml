@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>泰姆瑞尔帝国图书馆</title>
+  <title>泰姆瑞尔大陆游记</title>
   
   
   <link href="https://tamriel.top/atom.xml" rel="self"/>
@@ -10,7 +10,7 @@
   <id>https://tamriel.top/</id>
   
   <author>
-    <name>MORIATEI</name>
+    <name>MoRiAtEi</name>
     
   </author>
   
